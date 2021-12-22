@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tweve09
-- 👀 I’m interested in python (data science and desktop application develepment)
-- 🌱 I’m currently learning python
+- front end and back end dev
 - 📫 How to reach me :
    # +255757657612
    # IG: emmanuel exaud 2.0.3.0

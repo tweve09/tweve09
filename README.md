@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 . I am Emmanuel Tweve
+I'm a dedicated biomedical engineer with a fervor for technology. I specialize in crafting solutions that address a diverse array of challenges, transcending the boundaries of traditional problem-solving. Seamlessly blending the precision of biomedical engineering with the dynamism of software development, I'm on a mission to innovate and build a future where technology solves a myriad of problems. Let's embark on this journey together towards a brighter, tech-driven future! 💡🚀
 
+### Tech stacks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 <!--
 **tweve09/tweve09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

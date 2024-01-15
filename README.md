@@ -28,22 +28,44 @@ I'm a dedicated biomedical engineer with a fervor for technology. I specialize i
 - **Other Tools:**  
   ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  
+## Current Project: RentSpark - Tenant Management System
 
+Welcome to RentSpark, a comprehensive Tenant Management System designed to streamline interactions between landlords and tenants. RentSpark aims to simplify property management, providing a user-friendly platform for both landlords and tenants to efficiently handle various aspects of the rental process.
 
+### Key Features:
 
+- **Landlord Dashboard:**  
+  Easily manage multiple properties, track rental payments, and stay organized with a centralized dashboard.
 
+- **Tenant Portal:**  
+  Empower tenants to submit maintenance requests, view lease details, and make secure online payments.
 
-<!--
-**tweve09/tweve09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Communication Hub:**  
+  Facilitate transparent communication between landlords and tenants with in-app messaging and notifications.
 
-Here are some ideas to get you started:
+- **Document Management:**  
+  Store and access important documents such as leases, agreements, and property-related paperwork in one secure location.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies Used:
+
+- **Frontend:**  
+  - HTML5
+  - CSS3
+  - Bootstrap
+
+- **Backend:**  
+  - Node.js
+  - Express.js
+
+- **Database:**  
+  - MongoDB
+
+### How to Contribute:
+
+If you're interested in contributing to RentSpark.
+
+Explore the project and start managing your properties effortlessly with RentSpark!
+
+![RentSpark Demo](https://elementrix-elandlord.onrender.com)
+

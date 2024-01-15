@@ -3,6 +3,9 @@ I'm a dedicated biomedical engineer with a fervor for technology. I specialize i
 
 ### Tech stacks
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
 <!--
 **tweve09/tweve09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

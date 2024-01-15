@@ -30,7 +30,7 @@ I'm a dedicated biomedical engineer with a fervor for technology. I specialize i
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Connect with Me
-- [![emmanueltweve09@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanueltweve09@gmail.com)
+- Email: emmanueltweve09@gmail.com
 
 ## Current Project: RentSpark - Tenant Management System
 

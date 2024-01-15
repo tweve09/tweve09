@@ -35,7 +35,7 @@ Welcome to RentSpark, a comprehensive Tenant Management System designed to strea
 
 ### Demo:
 
-Check out the live website: (https://elementrix-elandlord.onrender.com))
+Check out the live website: (https://elementrix-elandlord.onrender.com)
 
 ### Key Features:
 
@@ -67,8 +67,7 @@ Check out the live website: (https://elementrix-elandlord.onrender.com))
 
 ### How to Contribute:
 
-If you're interested in contributing to RentSpark, feel free to check out my https://github.com/tweve09/elandlord.git. I welcome contributions from the community to make RentSpark even more robust and user-friendly.
+If you're interested in contributing to RentSpark, feel free to check out my https://github.com/tweve09/elandlord-master.git. I welcome contributions from the community to make RentSpark even more robust and user-friendly.
 
-Explore the project and start managing your properties effortlessly with RentSpark!
 
 

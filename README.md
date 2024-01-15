@@ -30,11 +30,8 @@ I'm a dedicated biomedical engineer with a fervor for technology. I specialize i
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Connect with Me
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_emmanueltweve09@gmail.com)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Emmanuel_tweve2/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuelexaud2.0.3.0/)
+- [![emmanueltweve09@gmail.com](https://img.shields.io/badge/Emmanueltweve09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanueltweve09@gmail.com)
 
-  
 ## Current Project: RentSpark - Tenant Management System
 
 Welcome to RentSpark, a comprehensive Tenant Management System designed to streamline interactions between landlords and tenants. RentSpark aims to simplify property management, providing a user-friendly platform for both landlords and tenants to efficiently handle various aspects of the rental process.

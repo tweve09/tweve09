@@ -33,6 +33,10 @@ I'm a dedicated biomedical engineer with a fervor for technology. I specialize i
 
 Welcome to RentSpark, a comprehensive Tenant Management System designed to streamline interactions between landlords and tenants. RentSpark aims to simplify property management, providing a user-friendly platform for both landlords and tenants to efficiently handle various aspects of the rental process.
 
+### Demo:
+
+Check out the live website: (https://elementrix-elandlord.onrender.com))
+
 ### Key Features:
 
 - **Landlord Dashboard:**  
@@ -63,9 +67,8 @@ Welcome to RentSpark, a comprehensive Tenant Management System designed to strea
 
 ### How to Contribute:
 
-If you're interested in contributing to RentSpark.
+If you're interested in contributing to RentSpark, feel free to check out my https://github.com/tweve09/elandlord.git. I welcome contributions from the community to make RentSpark even more robust and user-friendly.
 
 Explore the project and start managing your properties effortlessly with RentSpark!
 
-![RentSpark Demo](https://elementrix-elandlord.onrender.com)
 

@@ -67,7 +67,7 @@ Check out the live website: (https://elementrix-elandlord.onrender.com)
 
 ### How to Contribute:
 
-If you're interested in contributing to RentSpark, feel free to check out my https://github.com/tweve09/elandlord-master.git. I welcome contributions from the community to make RentSpark even more robust and user-friendly.
+If you're interested in contributing to RentSpark, feel free to check out my https://github.com/tweve09/elandlordv1.git. I welcome contributions from the community to make RentSpark even more robust and user-friendly.
 
 
 

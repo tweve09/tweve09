@@ -42,7 +42,7 @@ Welcome to RentSpark, a comprehensive Tenant Management System designed to strea
 
 ### Demo:
 
-Check out the live website: [RentSpark](https://elementrix-elandlord.onrender.com)
+Check out the live website: [RentSpark](http://rentspark.xyz)
 
 ### Key Features:
 
